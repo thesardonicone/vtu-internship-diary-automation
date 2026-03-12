@@ -1,0 +1,9 @@
+# Never commit credentials
+config.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Screenshots (optional - remove this line if you want to track them)
+*.png
